@@ -1,0 +1,1 @@
+print('Essa é a primeira aula de programação orientada a objetos')
